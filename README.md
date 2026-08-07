@@ -1,5 +1,9 @@
 # Quantum Optimization for Distributed Order Management (DOM)
 
+**Team:** The Quantum DOMinators  
+* Authors: Neeshu Rathi (neeshu_r@ma.iitr.ac.in) & Shiplu Sarker (shiplu1983@gmail.com)  
+* Program: WISER x Nestlé Global Quantum+AI Program 2026
+
 A Python project applying a Variational Quantum Algorithm with Pauli Correlation Encoding (PCE) alongside a classical Mixed-Integer Linear Program (MILP) recourse to solve Distributed Order Management routing problems.
 
 The Pauli Correlation Encoding scheme allows large numbers of binary variables to be executed on near-term quantum hardware with limited qubits by compressing multi-variable supply chain decisions into fewer physical qubits.
@@ -78,3 +82,7 @@ Upon completion, the script generates several diagnostic and business metric fil
 * scaling_analysis.csv
 * submission_readiness.csv
 * hybrid_line_level_allocation.csv
+
+### Credits & Acknowledgments
+* Challenge Organizers: WISER Institute & Nestlé Global Quantum+AI Program 2026.
+* Libraries: Developed using Python, PuLP (CBC), SciPy (COBYLA), Qiskit, and Qiskit Aer.
