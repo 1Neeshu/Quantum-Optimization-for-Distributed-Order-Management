@@ -1,0 +1,16 @@
+restart,seed,outer,alpha,master_loss,recourse_Z,incumbent_Z,max_normalized_violation,bits,repeated_bits,optimizer_success,optimizer_message,function_evaluations
+0,42,1,3.0,-5.877184506480407,1047384.1192307693,1047384.1192307693,0.06948164965644726,00000000,False,False,Return from COBYLA because the objective function has been evaluated MAXFUN times.,300
+0,42,2,3.9000000000000004,-5.897558454194694,1047384.1192307693,1047384.1192307693,0.0,00000000,True,True,Return from COBYLA because the trust region radius reaches its lower bound.,124
+0,42,3,5.07,-5.901934575368137,1047384.1192307693,1047384.1192307693,6.287558177704837e-06,00000000,True,True,Return from COBYLA because the trust region radius reaches its lower bound.,124
+0,42,4,6.591,-5.9047066364698635,1047384.1192307693,1047384.1192307693,0.0,00000000,True,True,Return from COBYLA because the trust region radius reaches its lower bound.,127
+1,1042,1,3.0,-5.904609321437236,1047384.1192307693,1047384.1192307693,0.007516779727791281,00000000,False,False,Return from COBYLA because the objective function has been evaluated MAXFUN times.,300
+1,1042,2,3.9000000000000004,-5.908014717781471,1047384.1192307693,1047384.1192307693,0.0011749758101519024,00000000,True,True,Return from COBYLA because the trust region radius reaches its lower bound.,125
+1,1042,3,5.07,-5.913742874831807,1047384.1192307693,1047384.1192307693,2.200881197679437e-05,00000000,True,True,Return from COBYLA because the trust region radius reaches its lower bound.,231
+1,1042,4,6.591,-5.9093310425796135,1047384.1192307693,1047384.1192307693,9.821843780890369e-05,00000000,True,True,Return from COBYLA because the trust region radius reaches its lower bound.,147
+2,2042,1,3.0,-5.898015670530462,1047384.1192307693,1047384.1192307693,0.007430765535399786,00000000,False,False,Return from COBYLA because the objective function has been evaluated MAXFUN times.,300
+2,2042,2,3.9000000000000004,-5.9012393363100175,1047384.1192307693,1047384.1192307693,0.00017407088421899692,00000000,True,False,Return from COBYLA because the objective function has been evaluated MAXFUN times.,300
+2,2042,3,5.07,-5.937942135329594,1057458.2332307692,1057458.2332307692,0.0035294968299766083,10000000,False,False,Return from COBYLA because the objective function has been evaluated MAXFUN times.,300
+2,2042,4,6.591,-5.953960410221306,1080634.4707307692,1080634.4707307692,0.0002812410259607212,10010000,False,False,Return from COBYLA because the objective function has been evaluated MAXFUN times.,300
+2,2042,5,8.5683,-5.965641012386837,1080634.4707307692,1080634.4707307692,0.0007423519566988158,10010000,True,False,Return from COBYLA because the objective function has been evaluated MAXFUN times.,300
+2,2042,6,11.138790000000002,-5.9729438229522644,1080634.4707307692,1080634.4707307692,0.0001146848088561954,10010000,True,True,Return from COBYLA because the trust region radius reaches its lower bound.,194
+2,2042,7,14.480427000000002,-5.976792750356289,1080634.4707307692,1080634.4707307692,4.159343213446092e-06,10010000,True,True,Return from COBYLA because the trust region radius reaches its lower bound.,143

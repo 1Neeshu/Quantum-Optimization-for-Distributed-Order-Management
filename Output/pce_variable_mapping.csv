@@ -1,0 +1,9 @@
+variable_index,order_id,decision,axis_group,qubits,Pauli_label
+0,5485387044,"0=default, 1=alternate",X,"(0,1)",IXX
+1,5485631272,"0=default, 1=alternate",X,"(0,2)",XIX
+2,5485389446,"0=default, 1=alternate",X,"(1,2)",XXI
+3,5485597603,"0=default, 1=alternate",Y,"(0,1)",IYY
+4,5485456896,"0=default, 1=alternate",Y,"(0,2)",YIY
+5,5485630312,"0=default, 1=alternate",Y,"(1,2)",YYI
+6,5485083643,"0=default, 1=alternate",Z,"(0,1)",IZZ
+7,5485466898,"0=default, 1=alternate",Z,"(0,2)",ZIZ

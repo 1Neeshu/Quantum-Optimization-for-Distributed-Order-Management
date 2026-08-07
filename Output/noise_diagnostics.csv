@@ -1,0 +1,2 @@
+noise_model,status,trials,shots_per_trial,bitstring_survival_rate,mean_bit_flips,max_bit_flips,minimum_observed_margin,mean_raw_noisy_Z,std_raw_noisy_Z,mean_repaired_noisy_Z,std_repaired_noisy_Z,feasible_repaired_rate
+FakeManilaV2,completed,20,4096,0.45,0.55,1,0.00048828125,1067887.5401057692,11829.563821761009,1080634.4707307694,0.0,1.0
