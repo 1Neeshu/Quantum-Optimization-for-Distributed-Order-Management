@@ -1,0 +1,7 @@
+check,passed,required,evidence
+Exact benchmark available,True,True,"Exact Z=1,080,634.47"
+Hybrid gap is at most 1%,True,True,Gap=0.000000%
+Optimization instance has a mixed optimum,True,False,Exact bits=10010000
+COBYLA formal success observed,True,False,At least one restart terminated successfully.
+Repeated noise study completed,True,True,20 trials at 4096 shots
+Planner recommendations table created,True,True,8 recommendations
