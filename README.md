@@ -80,7 +80,7 @@ Upon completion, the script generates several diagnostic and business metric fil
 * noise_diagnostics.csv
 * noise_trials.csv
 * scaling_analysis.csv
-* submission_readiness.csv
+* benchmark_compliance_report.csv
 * hybrid_line_level_allocation.csv
 
 ### Credits & Acknowledgments
